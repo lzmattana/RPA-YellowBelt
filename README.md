@@ -607,10 +607,9 @@ Para uso comercial ou em ambiente corporativo, entre em contato com o autor.
 
 Desenvolvedor | Yellow Belt Certified | Automation Specialist
 
-- 📧 Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- 📱 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)
+- 📧 Email: [l,z.mattana@gmail.com](mailto:l.z.mattana@gmail.com)
+- 💼 LinkedIn: [[linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/leonardo-mattana/)
+- 🐙 GitHub: [@lzmattana](https://github.com/lzmattana)
 
 ### Sobre o Desenvolvedor
 
@@ -653,23 +652,6 @@ Solução: Verifique suas credenciais e conexão com a rede interna
 ```
 Solução: Isso é normal para campos que não existem no chamado específico
 ```
-
-### Precisa de Ajuda?
-
-- 📖 Consulte a [Wiki do Projeto](wiki)
-- 🐛 Abra uma [Issue](issues)
-- 💬 Entre em contato com o [autor](#-autor)
-
----
-
-## 📈 Estatísticas do Projeto
-
-![GitHub Stars](https://img.shields.io/github/stars/seu-usuario/automacao-ge-yellowbelt)
-![GitHub Forks](https://img.shields.io/github/forks/seu-usuario/automacao-ge-yellowbelt)
-![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/automacao-ge-yellowbelt)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/seu-usuario/automacao-ge-yellowbelt)
-
----
 
 <div align="center">
 
