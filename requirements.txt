@@ -1,0 +1,19 @@
+# Automação GE - Yellow Belt Project
+# Dependências Python
+
+# Core
+selenium>=4.0.0          # Automação de navegador web
+
+# Nota: Tkinter vem incluído com Python (biblioteca padrão)
+# Nota: threading, datetime, json, sys são módulos built-in
+
+# Dependências de desenvolvimento (opcional)
+# Descomente se necessário para desenvolvimento
+
+# pytest>=7.0.0          # Testes automatizados
+# black>=22.0.0          # Formatação de código
+# pylint>=2.12.0         # Linting
+# mypy>=0.930            # Type checking
+
+# Build e empacotamento
+# pyinstaller>=5.0.0     # Criação de executável

@@ -1,0 +1,81 @@
+# Automação GE - Yellow Belt Project
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ChromeDriver
+chromedriver.exe
+chromedriver
+geckodriver.exe
+
+# Configurações sensíveis
+config/settings.json
+config/credentials.json
+*.log
+
+# Build e distribuição
+dist/
+build/
+*.spec
+
+# Dados de teste
+test_data/
+*.db
+*.sqlite
+
+# Arquivos temporários
+*.tmp
+*.temp
+.cache/
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebooks (se usado)
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
