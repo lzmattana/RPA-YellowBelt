@@ -293,13 +293,6 @@ Redução: 87% | De 9 erros/dia para ~1
 
 ---
 
-## 📞 Contato e Informações
-
-**Desenvolvedor:** Leonardo Mattana  
-**Função:** Yellow Belt | Desenvolvedor Python  
-**Email:** l.z.mattana@gmail.com
-**LinkedIn:** l[inkedin.com/in/seu-perfil  ](https://www.linkedin.com/in/leonardo-mattana/)
-**GitHub:** github.com/lzmattana/automacao-ge-yellowbelt
 
 **Repositório do Projeto:**  
 🔗 https://github.com/seu-usuario/automacao-ge-yellowbelt
